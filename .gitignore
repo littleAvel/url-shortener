@@ -1,0 +1,5 @@
+# VS Code IDE files
+.vscode/
+
+# MacOS Finder
+.DS_Store
